@@ -9,16 +9,16 @@
     {
       "id": "com.fastlane.vpn.backend",
       "title": "Fastlane VPN Backend",
-      "iconUri": "https://raw.githubusercontent.com/darkonline/fastlane-webos-repo/icons/com.fastlane.vpn.png",
+      "iconUri": "https://raw.githubusercontent.com/darkonline/fastlane-webos-repo/main/icons/app.png",
       "manifest": {
         "id": "com.fastlane.vpn.backend",
         "version": "1.0.0",
         "type": "web",
         "title": "Fastlane VPN Backend",
-        "iconUri": "https://raw.githubusercontent.com/darkonline/fastlane-webos-repo/icons/com.fastlane.vpn.png",
+        "iconUri": "https://raw.githubusercontent.com/darkonline/fastlane-webos-repo/main/icons/app.png",
         "sourceUrl": "https://github.com/darkonline/fastlane-webos-repo",
         "rootRequired": true,
-        "ipkUrl": "https://raw.githubusercontent.com/darkonline/fastlane-webos-repo/com.fastlane.vpn.backend_1.0.0_all.ipk",
+        "ipkUrl": "https://github.com/darkonline/fastlane-webos-repo/raw/main/com.fastlane.vpn.backend_1.0.0_all.ipk",
         "ipkHash": {
           "sha256": ""
         }
@@ -29,16 +29,16 @@
     {
       "id": "com.fastlane.vpn",
       "title": "Fastlane VPN UI",
-      "iconUri": "https://raw.githubusercontent.com/darkonline/fastlane-webos-repo/icons/com.fastlane.vpn.png",
+      "iconUri": "https://raw.githubusercontent.com/darkonline/fastlane-webos-repo/main/icons/app.png",
       "manifest": {
         "id": "com.fastlane.vpn",
         "version": "1.0.0",
         "type": "web",
         "title": "Fastlane VPN UI",
-        "iconUri": "https://raw.githubusercontent.com/darkonline/fastlane-webos-repo/icons/com.fastlane.vpn.png",
+        "iconUri": "https://raw.githubusercontent.com/darkonline/fastlane-webos-repo/main/icons/app.png",
         "sourceUrl": "https://github.com/darkonline/fastlane-webos-repo",
         "rootRequired": false,
-        "ipkUrl": "https://raw.githubusercontent.com/darkonline/fastlane-webos-repo/com.fastlane.vpn_1.0.0_all.ipk",
+        "ipkUrl": "https://github.com/darkonline/fastlane-webos-repo/raw/main/com.fastlane.vpn_1.0.0_all.ipk",
         "ipkHash": {
           "sha256": ""
         }
