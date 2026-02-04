@@ -1,0 +1,21 @@
+{
+  "name": "Fastlane VPN Repository",
+  "apps": [
+    {
+      "id": "com.fastlane.vpn.backend",
+      "title": "Fastlane VPN Backend",
+      "version": "1.0.0",
+      "icon": "icons/com.fastlane.vpn.png",
+      "url": "com.fastlane.vpn.backend_1.0.0.zip",
+      "description": "Backend для Fastlane VPN: скрипты, автозапуск, iptables, конфигурация Xray."
+    },
+    {
+      "id": "com.fastlane.vpn",
+      "title": "Fastlane VPN UI",
+      "version": "1.0.0",
+      "icon": "icons/com.fastlane.vpn.png",
+      "url": "com.fastlane.vpn_1.0.0.zip",
+      "description": "UI-клиент для управления VPN на webOS: выбор сервера, обновление subscription, перезапуск Xray."
+    }
+  ]
+}
