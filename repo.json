@@ -20,7 +20,7 @@
         "rootRequired": true,
         "ipkUrl": "https://github.com/darkonline/fastlane-webos-repo/raw/main/com.fastlane.vpn.backend_1.0.0_all.ipk",
         "ipkHash": {
-          "sha256": "c715a529b3e3ea543e77c12e0e0ac08fccd459228d3e6135d5fd44c8796427f8"
+          "sha256": "e64372509ed0270b3c5592cfe94151761bec9b48dd3afd67055619d4b19f691b"
         }
       },
       "shortDescription": "Backend для Fastlane VPN",
@@ -48,6 +48,7 @@
     }
   ]
 }
+
 
 
 
