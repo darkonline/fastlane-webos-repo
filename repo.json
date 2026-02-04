@@ -38,7 +38,7 @@
         "iconUri": "https://raw.githubusercontent.com/darkonline/fastlane-webos-repo/icons/com.fastlane.vpn.png",
         "sourceUrl": "https://github.com/darkonline/fastlane-webos-repo",
         "rootRequired": false,
-        "ipkUrl": "https://raw.githubusercontent.com/darkonline/fastlane-webos-repo/main/com.fastlane.vpn_1.0.0_all.ipk",
+        "ipkUrl": "https://raw.githubusercontent.com/darkonline/fastlane-webos-repo/com.fastlane.vpn_1.0.0_all.ipk",
         "ipkHash": {
           "sha256": ""
         }
