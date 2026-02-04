@@ -1,21 +1,50 @@
 {
-  "name": "Fastlane VPN Repository",
-  "apps": [
+  "paging": {
+    "page": 1,
+    "count": 2,
+    "maxPage": 1,
+    "itemsTotal": 2
+  },
+  "packages": [
     {
       "id": "com.fastlane.vpn.backend",
       "title": "Fastlane VPN Backend",
-      "version": "1.0.0",
-      "icon": "icons/com.fastlane.vpn.png",
-      "url": "com.fastlane.vpn.backend_1.0.0.zip",
-      "description": "Backend для Fastlane VPN: скрипты, автозапуск, iptables, конфигурация Xray."
+      "iconUri": "https://raw.githubusercontent.com/darkonline/fastlane-webos-repo/icons/com.fastlane.vpn.png",
+      "manifest": {
+        "id": "com.fastlane.vpn.backend",
+        "version": "1.0.0",
+        "type": "web",
+        "title": "Fastlane VPN Backend",
+        "iconUri": "https://raw.githubusercontent.com/darkonline/fastlane-webos-repo/icons/com.fastlane.vpn.png",
+        "sourceUrl": "https://github.com/darkonline/fastlane-webos-repo",
+        "rootRequired": true,
+        "ipkUrl": "https://raw.githubusercontent.com/darkonline/fastlane-webos-repo/com.fastlane.vpn.backend_1.0.0_all.ipk",
+        "ipkHash": {
+          "sha256": ""
+        }
+      },
+      "shortDescription": "Backend для Fastlane VPN",
+      "fullDescriptionUrl": ""
     },
     {
       "id": "com.fastlane.vpn",
       "title": "Fastlane VPN UI",
-      "version": "1.0.0",
-      "icon": "icons/com.fastlane.vpn.png",
-      "url": "com.fastlane.vpn_1.0.0.zip",
-      "description": "UI-клиент для управления VPN на webOS: выбор сервера, обновление subscription, перезапуск Xray."
+      "iconUri": "https://raw.githubusercontent.com/darkonline/fastlane-webos-repo/icons/com.fastlane.vpn.png",
+      "manifest": {
+        "id": "com.fastlane.vpn",
+        "version": "1.0.0",
+        "type": "web",
+        "title": "Fastlane VPN UI",
+        "iconUri": "https://raw.githubusercontent.com/darkonline/fastlane-webos-repo/icons/com.fastlane.vpn.png",
+        "sourceUrl": "https://github.com/darkonline/fastlane-webos-repo",
+        "rootRequired": false,
+        "ipkUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/com.fastlane.vpn_1.0.0_all.ipk",
+        "ipkHash": {
+          "sha256": ""
+        }
+      },
+      "shortDescription": "UI-клиент для управления VPN",
+      "fullDescriptionUrl": ""
     }
   ]
 }
